@@ -61,3 +61,7 @@ void printArr()
     arr[first] = arr[second];
     arr[second] = temp;
   }
+  
+  void draw()
+  {
+  }
