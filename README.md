@@ -6,6 +6,6 @@
 [BubbleSort](./homework/BubbleSort.pde)
 
 ![Alt homework11](./homework/BubbleSorting.jpg)
-[InsertionSort](./homework/InsertionSorting.pde)
 
+[InsertionSort](./homework/InsertionSorting.pde)
 ![Alt homework11](./homework/InsertionSorting.jpg)
