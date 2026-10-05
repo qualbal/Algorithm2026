@@ -22,3 +22,5 @@
 [HeapSort](./homework/HeapSorting.pde)
 
 ![Alt homework11](./homework/HeapSorting.jpg)
+
+[SortingAnimation](./homework/SortingAnimation.pde)
