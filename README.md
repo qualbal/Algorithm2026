@@ -24,3 +24,5 @@
 ![Alt homework11](./homework/HeapSorting.jpg)
 
 [SortingAnimation](./homework/SortingAnimation.pde)
+
+![Alt homework11](./homework/sortingAnimation.gif)
