@@ -25,4 +25,4 @@
 
 [SortingAnimation](./homework/SortingAnimation.pde)
 
-<video src="./homework/sortingAnimation.mp4" autoplay loop muted playsinline></video>
+<video src="./homework/SortingAnimation.mp4" autoplay loop muted playsinline></video>
