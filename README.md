@@ -25,4 +25,4 @@
 
 [SortingAnimation](./homework/SortingAnimation.pde)
 
-![Alt homework11](./homework/sortingAnimation.gif)
+![Alt homework11](./homework/SortingAnimation.mp4)
