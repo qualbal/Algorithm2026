@@ -25,11 +25,11 @@
 
 [SortingAnimation](./homework/SortingAnimation.pde)
 
-<video src="https://github.com/user-attachments/assets/efe7b48b-776f-461c-a9b3-ca015013b315"></video>
+https://github.com/user-attachments/assets/efe7b48b-776f-461c-a9b3-ca015013b315
 
 [BinarySearchTree](./homework/BinarySearchTree.pde)
 
-<video src="https://github.com/user-attachments/assets/b98a2d51-fb7e-40ec-a248-f12fea127cdc"></video>
+https://github.com/user-attachments/assets/b98a2d51-fb7e-40ec-a248-f12fea127cdc
 
 [InfixToPostfixInteractiveCalculator](./homework/InfixToPostfixInteractiveCalculator.pde)
 
