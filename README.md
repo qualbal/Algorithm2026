@@ -34,3 +34,7 @@ https://github.com/user-attachments/assets/b98a2d51-fb7e-40ec-a248-f12fea127cdc
 [InfixToPostfixInteractiveCalculator](./homework/InfixToPostfixInteractiveCalculator.pde)
 
 ![Alt homework11](./homework/InfixToPostfixInteractiveCalculator.jpg)
+
+[PebblePlacement](./homework/PebblePlacement.pde)
+
+![Alt homework11](./homework/PebblePlacement.jpg)
