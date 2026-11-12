@@ -42,3 +42,7 @@ https://github.com/user-attachments/assets/b98a2d51-fb7e-40ec-a248-f12fea127cdc
 [BFS](./homework/BreadthFirstSearch.pde)
 
 ![Alt homework11](./homework/BreadthFirstSearch.jpg)
+
+[DFS](./homework/DepthFirstSearch.pde)
+
+![Alt homework11](./homework/DepthFirstSearch.jpg)
