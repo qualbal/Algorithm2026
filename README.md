@@ -38,3 +38,7 @@ https://github.com/user-attachments/assets/b98a2d51-fb7e-40ec-a248-f12fea127cdc
 [PebblePlacement](./homework/PebblePlacement.pde)
 
 ![Alt homework11](./homework/PebblePlacement.jpg)
+
+[BFS](./homework/BreadthFirstSearch.pde)
+
+![Alt homework11](./homework/BreadthFirstSearch.jpg)
